@@ -37,3 +37,4 @@ mvnw.cmd
 selenium-spring.iml
 Help.md
 src/test/resources/snap/*.png
+.gitignore
